@@ -1,1 +1,0 @@
-# cc_w7d3_polymorphism-quiz
